@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>old site</title>
+</head>
+<body bgcolor="blue">
+  
+  <style>
+  
+  a{
+    
+    color: brown;
+    font-size: 10px;
+    font-family: Trebuchet MS;
+    
+  }
+  
+  audio{
+    place-items: center;
+    
+  }
+  
+  hr{
+
+    border-color: red;
+  }
+  
+  button{
+  bakcground-color: red
+  }
+    
+  
+  </style>
+  
+  <hr>
+  <p style="font-size: 5px; color: red">ola amigos, abaixo o conteudo</p>
+  <h1>ola seja bem vindo</h1>
+  <button style="color: red"><a href="https://sites.google.com/view/sobre-old-site/in%C3%ADcio">saiba mais</a></button>
+<br>
+<q>vai se lascar</q>
+<audio src="video.mp3" controls>hola</audio>
+  <hr>
+<code>guardo.sp</code>
+<br>
+<b>que porra e b</b>	
+<details>
+  <a href="https://xvideos.com">+18 bonus</a>
+  <br>
+  <p>ola galera este site comtem conteudo +18 entao<br>sevoce for crianca pode vazar daqui!</p>
+  <button><a href="https://openai.com">opneai,</a></button>
+  <br>
+  <small>og loc</small>
+</details>         </h>1>seus downloads abaixo</h1>
+<hr>
+<p>abaixo uma nova versão do super SNASH!</p>
+
+<button><a href:"https://drive.google.com/file/d/15QlStauXWYxz73Ltegvol1dhsekDJZQY/view?usp=drivesdk">arquivo zip super SNASH <br>abaixo as informações</a></button>
+<p>mod "supersnash info update"<br>🌟bugs fixed<br>🌟New unit "garni"</p>
+<hr>
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        .search-tool {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        
+        .search-tool i {
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Ferramentas de Pesquisa</h1>
+    
+    <div class="search-tool">
+        <i class="fab fa-google"></i>
+        <a href="https://www.google.com">Google</a>
+    </div>
+    
+    <div class="search-tool">
+        <i class="fab fa-bing"></i>
+        <a href="https://www.bing.com">Bing</a>
+    </div>
+    
+    <div class="search-tool">
+        <i class="fab fa-yahoo"></i>
+        <a href="https://www.yahoo.com">Yahoo</a>
+    </div>
+
+</body>
+</html>
